@@ -1,0 +1,7 @@
+
+
+192.168.137.47 node4.magedu.com  node4  master
+192.168.137.37 node3.magedu.com  node3  node3
+192.168.137.27 node2.magedu.com  node2  node2
+192.168.137.17 node1.magedu.com  node1  node1
+
